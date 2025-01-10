@@ -1,1 +1,4 @@
-changelog.md file content for release 1 branch
+Issue 6 done
+
+One more issue changelog.md
+1
